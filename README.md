@@ -29,7 +29,7 @@ The **Personal Finance Manager** is a modern, aesthetic, and fully functional fr
 
 ### 4. **UI/UX Features**
 - Modern, clean design using **shadcn/ui** components
-- Dark/light theme support
+- Dark theme support
 - Fully responsive layout for all devices
 - Toast notifications for user feedback
 - Beautiful gradients and smooth transitions
